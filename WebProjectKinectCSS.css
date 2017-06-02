@@ -1,0 +1,57 @@
+.wrapper{
+    width:750px;
+    background-image: url(ObsSnip.png);
+    background-size: 675px;
+    margin: 0 auto 0 auto;
+}
+
+.heading{
+    height:75px;
+    background:darkgreen;
+    padding: 25px;
+    text-align: center;
+    color: ghostwhite;
+    
+}
+
+.navigation{
+    height:50px;
+    background:lightgreen;
+    padding-left: 25px;
+}
+
+.content{
+    max-height: inherit height: 400px;
+    
+    
+    background:tan;
+    
+    
+}
+
+.sidebar{
+    width: 200px;
+    float:right;
+    background:tan;
+    min-height: 400px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    color:darkgreen;
+    text-align:center;
+}
+
+.footer{
+    clear:both;
+    background:darkgreen;
+    text-align: center;
+    padding: 5px;
+    height:20px;
+    color:ghostwhite;
+}
+
+
+body { 
+    background-image: url("Witcher 3B&W.jpg");
+    background-color: darkslategray;
+}
